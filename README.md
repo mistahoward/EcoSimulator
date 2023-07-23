@@ -35,7 +35,7 @@ Here's how to get the project running on your local machine for development and 
    ```
 4. In a new terminal, navigate to the backend directory and run the backend:
   ```bash
-  cd ../backend/EcosystemSimulator
+  cd ../backend
   dotnet run
   ```
 5. In another new terminal, navigate to the microservice directory, activate the virtual environment, and run the microservice:
